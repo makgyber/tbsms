@@ -3,8 +3,6 @@
 namespace App\Filament\Widgets;
 
 use App\Models\Received;
-use Closure;
-use Filament\Tables;
 use Filament\Tables\Columns\TextColumn;
 use Filament\Widgets\TableWidget as BaseWidget;
 use Illuminate\Database\Eloquent\Builder;
